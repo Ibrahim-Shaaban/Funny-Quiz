@@ -1,4 +1,4 @@
-# first_app
+# Funny Quiz
 
 A new Flutter project.
 
